@@ -14,6 +14,11 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+<img width="765" height="516" alt="image" src="https://github.com/user-attachments/assets/2ce82dee-218e-4fb3-a05f-8fb0b7e9fe20" />
+
+Data Mart: 
+<img width="827" height="485" alt="image" src="https://github.com/user-attachments/assets/aa6f31c7-84d1-4186-ae55-b9ff079ad942" />
+
 📖 **Project Overview**
 
 This project involves:
@@ -22,6 +27,9 @@ Data Architecture: Designing a Modern Data Warehouse Using Medallion Architectur
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+
+Data Integration: 
+<img width="1007" height="507" alt="image" src="https://github.com/user-attachments/assets/15847e51-1bda-4556-a946-1240fea76b3b" />
 
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
